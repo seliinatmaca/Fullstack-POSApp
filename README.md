@@ -2,12 +2,12 @@
 
 ##
 
-Technologies:
-React (Single Page Application)
-React-Router-Dom
-Ant Design and Tailwind CSS
-Express.js
-MongoDB
+.Technologies:
+.React (Single Page Application)
+.React-Router-Dom
+.Ant Design and Tailwind CSS
+.Express.js
+.MongoDB
 
 ##
 
