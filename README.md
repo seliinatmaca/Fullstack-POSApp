@@ -1,20 +1,21 @@
 <h1> Fullstack_POSApp </h1
 
 ##
+<ul>
 
-.Technologies:
-.React (Single Page Application)
-.React-Router-Dom
-.Ant Design and Tailwind CSS
-.Express.js
-.MongoDB
+  Technologies:
+  <li>React (Single Page Application)</li>
+  <li>React-Router-Dom</li>
+  <li>Ant Design and Tailwind CSS</li>
+  <li>Express.js</li>
+  <li>MongoDB</li>
+</ul>
 
-##
 
-Project Development Topics:
-Freelance Project Development Logic
-Using React-Router-Dom
-Building Projects with Ant Design and Tailwind CSS in React
+## Project Development Topics:
+-Freelance Project Development Logic
+-Using React-Router-Dom
+-Building Projects with Ant Design and Tailwind CSS in React
 Full-Stack Project Development with MERN (MongoDB, Express.js, React, Node.js) Stack
 Using Tailwind CSS for Responsive Design
 Authentication Processes with MongoDB
