@@ -1,7 +1,7 @@
 <h1> Fullstack_POSApp </h1
 
 ##
-<ul>
+
 
   Technologies:
   <li>React (Single Page Application)</li>
@@ -9,9 +9,9 @@
   <li>Ant Design and Tailwind CSS</li>
   <li>Express.js</li>
   <li>MongoDB <li>
-</ul>
 
-<ul>
+
+
 ## Project Development Topics:
  <li>Freelance Project Development Logic <li>
  <li>Using React-Router-Dom <li>
@@ -24,7 +24,7 @@
  <li>Database Operations with MongoDB <li>
  <li>Creating an API from Scratch <li>
  <li>Password Hashing <li>
- </ul>
+
 
 <h2> Screenshot </h2>
 
